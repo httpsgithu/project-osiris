@@ -28,7 +28,7 @@
     "debug": "^2.6.9",
     "depd": "^1.1.2",
     "eventemitter3": "^2.0.3",
-    "file-type": "^3.9.0",
+    "file-type": "^16.5.4",
     "mime": "^1.6.0",
     "node-telegram-bot-api": "git+https://gitlab.com/wfjsw/libtelegrambot.git",
     "pump": "^1.0.3",
